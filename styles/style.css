@@ -88,6 +88,7 @@ a {
 	float: left;
 	background-color: #F2F2F2;
 	margin-top: 90px;
+	position: relative;
 }
 .minibox1:last-child {
 	float: right;
@@ -110,4 +111,20 @@ a {
 }
 .text2 {
 	font-size: 24px;
+}
+.continue {
+	font-size: 14px;
+	color: #3D58A6;
+	position: absolute;
+	right: 9px;
+	bottom: 14.63px;
+}
+.end {
+	font-size: 12px;
+	float: left;
+	margin: 22px 0 21px 0;
+}
+.end:last-child {
+	float: right;
+
 }
