@@ -41,7 +41,8 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-.a {
+a{
+	list-style: none;
 	text-decoration: none;
 }
 *{
