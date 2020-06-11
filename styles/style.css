@@ -18,7 +18,7 @@
 	display: inline-block;
 	font-size: 24px;
 	margin: 12px 30px 0 0;
-	
+	font-family: 'Roboto-Regular';
 }
 a {
 	color: #3D58A6;
@@ -54,6 +54,7 @@ a {
 	position: absolute;
 	left: 30px;
 	bottom: 167px;
+	font-family: 'Roboto-Regular';
 }
 .inside:nth-child(2){
 	bottom: 123px;
@@ -77,6 +78,7 @@ a {
 	color: white;
 	font-size: 24px;
 	padding-top: 32px;
+	font-family: 'Roboto-Regular';
 }
 .whitebox {
 	position: relative;
@@ -104,6 +106,7 @@ a {
 	color: #3D58A6;
 	font-size: 24px;
 	padding-top: 32px; 
+	font-family: 'Roboto-Regular';
 }
 .minibox {
 	background-color: #E6E6E6;
@@ -130,6 +133,7 @@ a {
 .start2 {
 	font-size: 24px;
 	padding-top: 32px;
+	font-family: 'Roboto-Regular';
 }
 .minibox1 {
 	height: 225px;
@@ -146,6 +150,7 @@ a {
 	font-size: 22px;
 	color: #3D58A6;
 	padding: 13.05px 0 0 20.77px;
+	font-family: 'Roboto-Regular';
 }
 .last {
 	padding: 26px 0 0 39px;
@@ -160,6 +165,7 @@ a {
 }
 .text2 {
 	font-size: 24px;
+	font-family: 'Roboto-Regular';
 }
 .continue {
 	font-size: 14px;
@@ -167,6 +173,7 @@ a {
 	position: absolute;
 	right: 9px;
 	bottom: 14.63px;
+	font-family: 'Roboto-Regular';
 }
 .end {
 	font-size: 12px;
@@ -175,7 +182,7 @@ a {
 }
 .end:last-child {
 	float: right;
-
+	font-family: 'Roboto-Regular';
 }
 .orangebox {
 	background-color: #e64d00;
