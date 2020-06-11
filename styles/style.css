@@ -81,13 +81,13 @@ a {
 .whitebox {
 	position: relative;
 	background: white;
-	float: right;
+	display: inline-block;
 	width: 570px;
 	height: 320px;
 	margin-top: 28px;
 }
-.whitebox:first-child {
-	float: left;
+.whitebox:last-child {
+	margin-left: 20px;
 }
 .text {
 	font-size: 15px;
